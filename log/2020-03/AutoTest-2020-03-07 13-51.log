@@ -1,0 +1,14 @@
+12:04:19  [INFO ] : {"status":200,"msg":"success","token":"29bb42e0af2b4ed3a723c32845d284fb"}
+12:04:19  [INFO ] : 添加参数token成功key的值29bb42e0af2b4ed3a723c32845d284fb
+12:08:32  [INFO ] : {"status":200,"msg":"success","token":"91a32551d82942398c0814d6f0b1d2dc"}
+12:08:33  [INFO ] : 添加参数token成功key的值91a32551d82942398c0814d6f0b1d2dc
+12:08:33  [INFO ] : {"status":405,"msg":"非法请求"}
+12:08:33  [INFO ] : {"status":405,"msg":"非法请求"}
+12:11:54  [INFO ] : {"status":200,"msg":"success","token":"36b154ae82714249ac9805c17aa040e0"}
+12:11:55  [INFO ] : 添加参数token成功key的值36b154ae82714249ac9805c17aa040e0
+12:11:55  [INFO ] : {"status":405,"msg":"非法请求"}
+12:11:55  [INFO ] : {"status":405,"msg":"非法请求"}
+12:12:23  [INFO ] : {"status":200,"msg":"success","token":"09cb0953fc9a45f69570528788d9fd1f"}
+12:12:23  [INFO ] : 添加参数token成功key的值09cb0953fc9a45f69570528788d9fd1f
+12:12:23  [INFO ] : {"status":200,"msg":"注册成功"}
+12:12:23  [INFO ] : {"status":200,"msg":"注册成功"}

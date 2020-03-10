@@ -1,0 +1,778 @@
+21:37:29  [INFO ] : {"status":200,"msg":"success","token":"be411a2f1917474fa7450787be7e8bb2"}
+21:37:29  [INFO ] : 添加参数token成功key的值be411a2f1917474fa7450787be7e8bb2
+21:37:29  [INFO ] : {"status":200,"msg":"恭喜您，登录成功","userid":"1"}
+21:37:29  [INFO ] : 添加参数id成功key的值1
+21:37:30  [INFO ] : {"status":200,"msg":"查询成功","nickname":"Will_Testing","id":"1","describe":"擅长Python、Java自动化开发；是特斯汀学院最可爱的老师"}
+21:37:30  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+21:37:30  [INFO ] : {"status":200,"msg":"success","token":"7fca40ab95f546cd85b5dbd9c253fa0f"}
+21:37:30  [INFO ] : 添加参数token成功key的值7fca40ab95f546cd85b5dbd9c253fa0f
+21:37:30  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+21:37:30  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:37:30  [INFO ] : {"status":200,"msg":"success","token":"148fd0367bc64d7fb67e9cbc1481a982"}
+21:37:30  [INFO ] : {"status":402,"msg":"参数错误"}
+21:37:30  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:37:30  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:37:30  [INFO ] : {"status":200,"msg":"success","token":"68e9d4553a5948c0aae66904c9300806"}
+21:37:30  [INFO ] : 添加参数token成功key的值68e9d4553a5948c0aae66904c9300806
+21:37:30  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+21:37:30  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:37:30  [INFO ] : {"status":401,"msg":"您还未登录"}
+21:37:30  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+21:37:44  [INFO ] : {"status":200,"msg":"success","token":"9950526ce8cf4d5a8422197ff28ece7d"}
+21:37:44  [INFO ] : 添加参数token成功key的值9950526ce8cf4d5a8422197ff28ece7d
+21:37:44  [INFO ] : {"status":200,"msg":"恭喜您，登录成功","userid":"1"}
+21:37:44  [INFO ] : 添加参数id成功key的值1
+21:37:44  [INFO ] : {"status":200,"msg":"查询成功","nickname":"Will_Testing","id":"1","describe":"擅长Python、Java自动化开发；是特斯汀学院最可爱的老师"}
+21:37:44  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+21:37:44  [INFO ] : {"status":200,"msg":"success","token":"11c0c15f05084e6ebf002dcccb0244f7"}
+21:37:44  [INFO ] : 添加参数token成功key的值11c0c15f05084e6ebf002dcccb0244f7
+21:37:44  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+21:37:44  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:37:45  [INFO ] : {"status":200,"msg":"success","token":"f97c106989144844b145cd53773c0b92"}
+21:37:45  [INFO ] : {"status":402,"msg":"参数错误"}
+21:37:45  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:37:45  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:37:45  [INFO ] : {"status":200,"msg":"success","token":"cd1a555b62c440dda1208b20222b879c"}
+21:37:45  [INFO ] : 添加参数token成功key的值cd1a555b62c440dda1208b20222b879c
+21:37:45  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+21:37:45  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:37:45  [INFO ] : {"status":401,"msg":"您还未登录"}
+21:37:45  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+21:39:36  [INFO ] : {"status":200,"msg":"success","token":"39e94c15e9694933b1287e331b34d828"}
+21:39:36  [INFO ] : 添加参数token成功key的值39e94c15e9694933b1287e331b34d828
+21:39:36  [INFO ] : {"status":200,"msg":"恭喜您，登录成功","userid":"1"}
+21:39:36  [INFO ] : 添加参数id成功key的值1
+21:39:36  [INFO ] : {"status":200,"msg":"查询成功","nickname":"Will_Testing","id":"1","describe":"擅长Python、Java自动化开发；是特斯汀学院最可爱的老师"}
+21:39:36  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+21:39:36  [INFO ] : {"status":200,"msg":"success","token":"b883e7766df94d059ef6603cb06c9f80"}
+21:39:36  [INFO ] : 添加参数token成功key的值b883e7766df94d059ef6603cb06c9f80
+21:39:37  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+21:39:37  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:39:37  [INFO ] : {"status":200,"msg":"success","token":"9e88580fad41494580d76727d2a24a57"}
+21:39:37  [INFO ] : {"status":402,"msg":"参数错误"}
+21:39:37  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:39:37  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:39:37  [INFO ] : {"status":200,"msg":"success","token":"cfca921183a14b02870d095dde8d41ff"}
+21:39:37  [INFO ] : 添加参数token成功key的值cfca921183a14b02870d095dde8d41ff
+21:39:37  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+21:39:37  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:39:37  [INFO ] : {"status":401,"msg":"您还未登录"}
+21:39:37  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+21:43:53  [INFO ] : {"status":200,"msg":"success","token":"91a4b059c7b2469f869cf3faedc28d25"}
+21:43:53  [ERROR] : 解析失败，请检查jsonPath表达式
+21:43:53  [ERROR] : com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:43:53  [INFO ] : 添加参数token成功key的值91a4b059c7b2469f869cf3faedc28d25
+21:43:53  [INFO ] : {"status":200,"msg":"恭喜您，登录成功","userid":"1"}
+21:43:53  [ERROR] : 解析失败，请检查jsonPath表达式
+21:43:53  [ERROR] : com.alibaba.fastjson.JSONPathException: not support jsonpath : 恭喜您，登录成功
+com.alibaba.fastjson.JSONPathException: not support jsonpath : 恭喜您，登录成功
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:43:53  [INFO ] : 添加参数id成功key的值1
+21:43:53  [INFO ] : {"status":200,"msg":"查询成功","nickname":"Will_Testing","id":"1","describe":"擅长Python、Java自动化开发；是特斯汀学院最可爱的老师"}
+21:43:53  [ERROR] : 解析失败，请检查jsonPath表达式
+21:43:53  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:43:53  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+21:43:53  [ERROR] : 解析失败，请检查jsonPath表达式
+21:43:53  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:43:53  [INFO ] : {"status":200,"msg":"success","token":"b82552b7b7114bfa8b212a4573131aa5"}
+21:43:53  [ERROR] : 解析失败，请检查jsonPath表达式
+21:43:53  [ERROR] : com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:43:53  [INFO ] : 添加参数token成功key的值b82552b7b7114bfa8b212a4573131aa5
+21:43:53  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+21:43:53  [ERROR] : 解析失败，请检查jsonPath表达式
+21:43:53  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:43:53  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:43:53  [INFO ] : {"status":200,"msg":"success","token":"eb3ef8262b274da88b81c102594dc9d3"}
+21:43:53  [ERROR] : 解析失败，请检查jsonPath表达式
+21:43:53  [ERROR] : com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:43:54  [INFO ] : {"status":402,"msg":"参数错误"}
+21:43:54  [ERROR] : 解析失败，请检查jsonPath表达式
+21:43:54  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:43:54  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:43:54  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:43:54  [INFO ] : {"status":200,"msg":"success","token":"59ca02ec37554062b72cdf9ac18245df"}
+21:43:54  [ERROR] : 解析失败，请检查jsonPath表达式
+21:43:54  [ERROR] : com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:43:54  [INFO ] : 添加参数token成功key的值59ca02ec37554062b72cdf9ac18245df
+21:43:54  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+21:43:54  [ERROR] : 解析失败，请检查jsonPath表达式
+21:43:54  [ERROR] : com.alibaba.fastjson.JSONPathException: not support jsonpath : 恭喜您，登录成功
+com.alibaba.fastjson.JSONPathException: not support jsonpath : 恭喜您，登录成功
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:43:54  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:43:54  [INFO ] : {"status":401,"msg":"您还未登录"}
+21:43:54  [ERROR] : 解析失败，请检查jsonPath表达式
+21:43:54  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:43:54  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+21:43:54  [ERROR] : 解析失败，请检查jsonPath表达式
+21:43:54  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:46:21  [INFO ] : {"status":200,"msg":"success","token":"0a4ff71676ae4e58961a90eb66b67d47"}
+21:46:21  [ERROR] : 解析失败，请检查jsonPath表达式
+21:46:21  [ERROR] : com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:46:21  [INFO ] : 添加参数token成功key的值0a4ff71676ae4e58961a90eb66b67d47
+21:46:22  [INFO ] : {"status":200,"msg":"恭喜您，登录成功","userid":"1"}
+21:46:22  [ERROR] : 解析失败，请检查jsonPath表达式
+21:46:22  [ERROR] : com.alibaba.fastjson.JSONPathException: not support jsonpath : 恭喜您，登录成功
+com.alibaba.fastjson.JSONPathException: not support jsonpath : 恭喜您，登录成功
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:46:22  [INFO ] : 添加参数id成功key的值1
+21:46:22  [INFO ] : {"status":200,"msg":"查询成功","nickname":"Will_Testing","id":"1","describe":"擅长Python、Java自动化开发；是特斯汀学院最可爱的老师"}
+21:46:22  [ERROR] : 解析失败，请检查jsonPath表达式
+21:46:22  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:46:22  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+21:46:22  [ERROR] : 解析失败，请检查jsonPath表达式
+21:46:22  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:46:22  [INFO ] : {"status":200,"msg":"success","token":"fa2cefcba0244b379bf95ab48df1b255"}
+21:46:22  [ERROR] : 解析失败，请检查jsonPath表达式
+21:46:22  [ERROR] : com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:46:22  [INFO ] : 添加参数token成功key的值fa2cefcba0244b379bf95ab48df1b255
+21:46:22  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+21:46:22  [ERROR] : 解析失败，请检查jsonPath表达式
+21:46:22  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:46:22  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:46:22  [INFO ] : {"status":200,"msg":"success","token":"b6a7eb4f0d1a49e4a0c0b8307d37711a"}
+21:46:22  [ERROR] : 解析失败，请检查jsonPath表达式
+21:46:22  [ERROR] : com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:46:22  [INFO ] : {"status":402,"msg":"参数错误"}
+21:46:22  [ERROR] : 解析失败，请检查jsonPath表达式
+21:46:22  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:46:22  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:46:22  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:46:22  [INFO ] : {"status":200,"msg":"success","token":"ec7c11224c534141b69d6b44e8521a87"}
+21:46:22  [ERROR] : 解析失败，请检查jsonPath表达式
+21:46:22  [ERROR] : com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:46:22  [INFO ] : 添加参数token成功key的值ec7c11224c534141b69d6b44e8521a87
+21:46:22  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+21:46:22  [ERROR] : 解析失败，请检查jsonPath表达式
+21:46:22  [ERROR] : com.alibaba.fastjson.JSONPathException: not support jsonpath : 恭喜您，登录成功
+com.alibaba.fastjson.JSONPathException: not support jsonpath : 恭喜您，登录成功
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:46:22  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:46:22  [INFO ] : {"status":401,"msg":"您还未登录"}
+21:46:22  [ERROR] : 解析失败，请检查jsonPath表达式
+21:46:22  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:46:23  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+21:46:23  [ERROR] : 解析失败，请检查jsonPath表达式
+21:46:23  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:51:18  [ERROR] : 该sheet不存在
+21:52:46  [ERROR] : 该sheet不存在
+21:53:22  [INFO ] : {"status":200,"msg":"success","token":"76c7ecac5f854c42b406b4fa94ba76f5"}
+21:53:22  [ERROR] : 解析失败，请检查jsonPath表达式
+21:53:22  [ERROR] : com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:53:22  [INFO ] : 添加参数token成功key的值76c7ecac5f854c42b406b4fa94ba76f5
+21:53:22  [INFO ] : {"status":200,"msg":"恭喜您，登录成功","userid":"1"}
+21:53:22  [ERROR] : 解析失败，请检查jsonPath表达式
+21:53:22  [ERROR] : com.alibaba.fastjson.JSONPathException: not support jsonpath : 恭喜您，登录成功
+com.alibaba.fastjson.JSONPathException: not support jsonpath : 恭喜您，登录成功
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:53:22  [INFO ] : 添加参数id成功key的值1
+21:53:22  [INFO ] : {"status":200,"msg":"查询成功","nickname":"Will_Testing","id":"1","describe":"擅长Python、Java自动化开发；是特斯汀学院最可爱的老师"}
+21:53:22  [ERROR] : 解析失败，请检查jsonPath表达式
+21:53:22  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:53:23  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+21:53:23  [ERROR] : 解析失败，请检查jsonPath表达式
+21:53:23  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:53:23  [INFO ] : {"status":200,"msg":"success","token":"83967f77c9c7438e8a55ee9657d08bc1"}
+21:53:23  [ERROR] : 解析失败，请检查jsonPath表达式
+21:53:23  [ERROR] : com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:53:23  [INFO ] : 添加参数token成功key的值83967f77c9c7438e8a55ee9657d08bc1
+21:53:23  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+21:53:23  [ERROR] : 解析失败，请检查jsonPath表达式
+21:53:23  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:53:23  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:53:23  [INFO ] : {"status":200,"msg":"success","token":"0734ff36384e4f1eb85a5fc29a872f48"}
+21:53:23  [ERROR] : 解析失败，请检查jsonPath表达式
+21:53:23  [ERROR] : com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:53:23  [INFO ] : {"status":402,"msg":"参数错误"}
+21:53:23  [ERROR] : 解析失败，请检查jsonPath表达式
+21:53:23  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:53:23  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:53:23  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:53:23  [INFO ] : {"status":200,"msg":"success","token":"bb4780a2fdab44b6ba4282f17ebb8a26"}
+21:53:23  [ERROR] : 解析失败，请检查jsonPath表达式
+21:53:23  [ERROR] : com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+com.alibaba.fastjson.JSONPathException: illeal jsonpath syntax. 200
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:53:23  [INFO ] : 添加参数token成功key的值bb4780a2fdab44b6ba4282f17ebb8a26
+21:53:23  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+21:53:23  [ERROR] : 解析失败，请检查jsonPath表达式
+21:53:23  [ERROR] : com.alibaba.fastjson.JSONPathException: not support jsonpath : 恭喜您，登录成功
+com.alibaba.fastjson.JSONPathException: not support jsonpath : 恭喜您，登录成功
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:53:23  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:53:23  [INFO ] : {"status":401,"msg":"您还未登录"}
+21:53:23  [ERROR] : 解析失败，请检查jsonPath表达式
+21:53:23  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:53:23  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+21:53:23  [ERROR] : 解析失败，请检查jsonPath表达式
+21:53:23  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.assertSameJson(KeyWordOfInter.java:280) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:84) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:55:17  [INFO ] : {"status":200,"msg":"success","token":"a696909a03f14e71b43fdfb54c10d65f"}
+21:55:17  [INFO ] : 通过
+21:55:17  [INFO ] : 添加参数token成功key的值a696909a03f14e71b43fdfb54c10d65f
+21:55:18  [INFO ] : {"status":200,"msg":"恭喜您，登录成功","userid":"1"}
+21:55:18  [INFO ] : 通过
+21:55:18  [INFO ] : 添加参数id成功key的值1
+21:55:18  [INFO ] : {"status":200,"msg":"查询成功","nickname":"Will_Testing","id":"1","describe":"擅长Python、Java自动化开发；是特斯汀学院最可爱的老师"}
+21:55:18  [INFO ] : 通过
+21:55:18  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+21:55:18  [INFO ] : 通过
+21:55:19  [INFO ] : {"status":200,"msg":"success","token":"588dc30606924db2873799c6dd0e5c76"}
+21:55:19  [INFO ] : 通过
+21:55:19  [INFO ] : 添加参数token成功key的值588dc30606924db2873799c6dd0e5c76
+21:55:19  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+21:55:19  [INFO ] : 通过
+21:55:19  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:55:19  [INFO ] : {"status":200,"msg":"success","token":"e9a00b8436dd4a678836257aae8941a0"}
+21:55:19  [INFO ] : 通过
+21:55:19  [INFO ] : {"status":402,"msg":"参数错误"}
+21:55:19  [INFO ] : 失败
+21:55:19  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:55:19  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:55:21  [INFO ] : {"status":200,"msg":"success","token":"34286eba836b424f9a40c3a4e5bb0bb7"}
+21:55:21  [INFO ] : 通过
+21:55:21  [INFO ] : 添加参数token成功key的值34286eba836b424f9a40c3a4e5bb0bb7
+21:55:22  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+21:55:22  [INFO ] : 失败
+21:55:22  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:55:22  [INFO ] : {"status":401,"msg":"您还未登录"}
+21:55:22  [INFO ] : 失败
+21:55:23  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+21:55:23  [INFO ] : 通过
+21:58:55  [INFO ] : {"status":200,"msg":"success","token":"47984c65a9e042798d37e6f0bb2f7803"}
+21:58:55  [INFO ] : 通过
+21:58:55  [INFO ] : 添加参数token成功key的值47984c65a9e042798d37e6f0bb2f7803
+21:58:55  [INFO ] : {"status":200,"msg":"恭喜您，登录成功","userid":"1"}
+21:58:55  [INFO ] : 通过
+21:58:55  [INFO ] : 添加参数id成功key的值1
+21:58:55  [INFO ] : {"status":200,"msg":"查询成功","nickname":"Will_Testing","id":"1","describe":"擅长Python、Java自动化开发；是特斯汀学院最可爱的老师"}
+21:58:55  [INFO ] : 通过
+21:58:55  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+21:58:55  [INFO ] : 通过
+21:58:56  [INFO ] : {"status":200,"msg":"success","token":"6cd33c1f3041438c966426168381a719"}
+21:58:56  [INFO ] : 通过
+21:58:56  [INFO ] : 添加参数token成功key的值6cd33c1f3041438c966426168381a719
+21:58:56  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+21:58:56  [INFO ] : 通过
+21:58:56  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:58:56  [INFO ] : {"status":200,"msg":"success","token":"864998050bce42fb855717a28217d636"}
+21:58:56  [INFO ] : 通过
+21:58:56  [INFO ] : 添加参数token成功key的值864998050bce42fb855717a28217d636
+21:58:56  [INFO ] : {"status":402,"msg":"参数错误"}
+21:58:56  [INFO ] : 失败
+21:58:56  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:58:56  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:58:56  [INFO ] : {"status":200,"msg":"success","token":"e913c3d5a5ad451a8a48647f8c303d97"}
+21:58:56  [INFO ] : 通过
+21:58:56  [INFO ] : 添加参数token成功key的值e913c3d5a5ad451a8a48647f8c303d97
+21:58:56  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+21:58:56  [INFO ] : 失败
+21:58:56  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+21:58:56  [INFO ] : {"status":401,"msg":"您还未登录"}
+21:58:56  [INFO ] : 失败
+21:58:56  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+21:58:56  [INFO ] : 通过
+22:01:44  [INFO ] : {"status":200,"msg":"success","token":"429daec847b94afebc0654fd87d3452e"}
+22:01:44  [INFO ] : 通过
+22:01:44  [INFO ] : 添加参数token成功key的值429daec847b94afebc0654fd87d3452e
+22:01:44  [INFO ] : {"status":200,"msg":"恭喜您，登录成功","userid":"1"}
+22:01:44  [INFO ] : 通过
+22:01:44  [INFO ] : 添加参数id成功key的值1
+22:01:44  [INFO ] : {"status":200,"msg":"查询成功","nickname":"Will_Testing","id":"1","describe":"擅长Python、Java自动化开发；是特斯汀学院最可爱的老师"}
+22:01:44  [INFO ] : 通过
+22:01:44  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+22:01:44  [INFO ] : 通过
+22:01:44  [INFO ] : {"status":200,"msg":"success","token":"f064059b6a2f4ccc88364ba204772e21"}
+22:01:44  [INFO ] : 通过
+22:01:44  [INFO ] : 添加参数token成功key的值f064059b6a2f4ccc88364ba204772e21
+22:01:44  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+22:01:44  [INFO ] : 通过
+22:01:44  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+22:01:45  [INFO ] : {"status":200,"msg":"success","token":"ecb9f697f8774389979fd01730961fe1"}
+22:01:45  [INFO ] : 通过
+22:01:45  [INFO ] : 添加参数token成功key的值ecb9f697f8774389979fd01730961fe1
+22:01:45  [INFO ] : {"status":402,"msg":"参数错误"}
+22:01:45  [INFO ] : 失败
+22:01:45  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+22:01:45  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+22:01:45  [INFO ] : {"status":200,"msg":"success","token":"b4726d6e4b134264a79104810cc4eec9"}
+22:01:45  [INFO ] : 通过
+22:01:45  [INFO ] : 添加参数token成功key的值b4726d6e4b134264a79104810cc4eec9
+22:01:45  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+22:01:45  [INFO ] : 失败
+22:01:45  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+22:01:45  [INFO ] : {"status":401,"msg":"您还未登录"}
+22:01:45  [INFO ] : 失败
+22:01:45  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+22:01:45  [INFO ] : 通过
+22:06:21  [INFO ] : {"status":200,"msg":"success","token":"71806f598cbe47d4a2e2d33b28dae177"}
+22:06:21  [INFO ] : 通过
+22:06:21  [INFO ] : 添加参数token成功key的值71806f598cbe47d4a2e2d33b28dae177
+22:06:21  [INFO ] : {"status":200,"msg":"恭喜您，登录成功","userid":"1"}
+22:06:21  [INFO ] : 通过
+22:06:21  [INFO ] : 添加参数id成功key的值1
+22:06:21  [INFO ] : {"status":200,"msg":"查询成功","nickname":"Will_Testing","id":"1","describe":"擅长Python、Java自动化开发；是特斯汀学院最可爱的老师"}
+22:06:21  [INFO ] : 通过
+22:06:22  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+22:06:22  [INFO ] : 通过
+22:06:22  [INFO ] : {"status":200,"msg":"success","token":"2b9f9468f40345ad8f226ae191789ee2"}
+22:06:22  [INFO ] : 通过
+22:06:22  [INFO ] : 添加参数token成功key的值2b9f9468f40345ad8f226ae191789ee2
+22:06:22  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+22:06:22  [INFO ] : 通过
+22:06:22  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+22:06:22  [INFO ] : {"status":200,"msg":"success","token":"f8bb21cac2274f09b58f02cd45f9b6d7"}
+22:06:22  [INFO ] : 通过
+22:06:22  [INFO ] : 添加参数token成功key的值f8bb21cac2274f09b58f02cd45f9b6d7
+22:06:22  [INFO ] : {"status":402,"msg":"参数错误"}
+22:06:22  [INFO ] : 失败
+22:06:22  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+22:06:22  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+22:06:22  [INFO ] : {"status":200,"msg":"success","token":"164889c7baab4060ba0dd2019d37af73"}
+22:06:22  [INFO ] : 通过
+22:06:22  [INFO ] : 添加参数token成功key的值164889c7baab4060ba0dd2019d37af73
+22:06:22  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+22:06:22  [INFO ] : 失败
+22:06:22  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+22:06:22  [INFO ] : {"status":401,"msg":"您还未登录"}
+22:06:22  [INFO ] : 失败
+22:06:22  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+22:06:22  [INFO ] : 通过
+22:10:54  [ERROR] : 该sheet不存在
+22:11:06  [INFO ] : {"status":200,"msg":"success","token":"95376e10d295479b82a9e516347c34a9"}
+22:11:06  [INFO ] : 通过
+22:11:06  [INFO ] : 添加参数token成功key的值95376e10d295479b82a9e516347c34a9
+22:11:06  [INFO ] : {"status":200,"msg":"恭喜您，登录成功","userid":"1"}
+22:11:06  [INFO ] : 通过
+22:11:06  [INFO ] : 添加参数id成功key的值1
+22:11:06  [INFO ] : {"status":200,"msg":"查询成功","nickname":"Will_Testing","id":"1","describe":"擅长Python、Java自动化开发；是特斯汀学院最可爱的老师"}
+22:11:06  [INFO ] : 通过
+22:11:06  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+22:11:06  [INFO ] : 通过
+22:11:06  [INFO ] : {"status":200,"msg":"success","token":"937fc69288dc4b50b8e6a6185ea3d5b1"}
+22:11:06  [INFO ] : 通过
+22:11:06  [INFO ] : 添加参数token成功key的值937fc69288dc4b50b8e6a6185ea3d5b1
+22:11:07  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+22:11:07  [INFO ] : 通过
+22:11:07  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+22:11:07  [INFO ] : {"status":200,"msg":"success","token":"89ba3ca941a14c3cb7fa9760e61d9bea"}
+22:11:07  [INFO ] : 通过
+22:11:07  [INFO ] : 添加参数token成功key的值89ba3ca941a14c3cb7fa9760e61d9bea
+22:11:07  [INFO ] : {"status":402,"msg":"参数错误"}
+22:11:07  [INFO ] : 失败
+22:11:07  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+22:11:07  [ERROR] : com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+com.alibaba.fastjson.JSONPathException: json-path can not be null or empty
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+22:11:07  [INFO ] : {"status":200,"msg":"success","token":"fee8180aba6840729c21ad966d87abec"}
+22:11:07  [INFO ] : 通过
+22:11:07  [INFO ] : 添加参数token成功key的值fee8180aba6840729c21ad966d87abec
+22:11:07  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+22:11:07  [INFO ] : 失败
+22:11:07  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:63) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+22:11:07  [INFO ] : {"status":401,"msg":"您还未登录"}
+22:11:07  [INFO ] : 失败
+22:11:07  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+22:11:07  [INFO ] : 通过
+22:14:55  [ERROR] : 该sheet不存在
+22:15:07  [INFO ] : {"status":200,"msg":"success","token":"8653b955936841f5abe7050d1fe1a2fa"}
+22:15:07  [INFO ] : 通过
+22:15:07  [INFO ] : 添加参数token成功key的值8653b955936841f5abe7050d1fe1a2fa
+22:15:07  [INFO ] : {"status":200,"msg":"恭喜您，登录成功","userid":"1"}
+22:15:07  [INFO ] : 通过
+22:15:07  [INFO ] : 添加参数id成功key的值1
+22:15:07  [INFO ] : {"status":200,"msg":"查询成功","nickname":"Will_Testing","id":"1","describe":"擅长Python、Java自动化开发；是特斯汀学院最可爱的老师"}
+22:15:07  [INFO ] : 通过
+22:15:07  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+22:15:07  [INFO ] : 通过
+22:15:07  [INFO ] : {"status":200,"msg":"success","token":"8054b30cac914641a9b16666248bc6fb"}
+22:15:07  [INFO ] : 通过
+22:15:07  [INFO ] : 添加参数token成功key的值8054b30cac914641a9b16666248bc6fb
+22:15:07  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+22:15:07  [INFO ] : 通过
+22:15:08  [INFO ] : {"status":200,"msg":"success","token":"05bdff1ce3cd43aba4233ad403a38478"}
+22:15:08  [INFO ] : 通过
+22:15:08  [INFO ] : 添加参数token成功key的值05bdff1ce3cd43aba4233ad403a38478
+22:15:08  [INFO ] : {"status":402,"msg":"参数错误"}
+22:15:08  [INFO ] : 失败
+22:15:08  [INFO ] : {"status":200,"msg":"success","token":"274a37e458944322ada50628bad66671"}
+22:15:08  [INFO ] : 通过
+22:15:08  [INFO ] : 添加参数token成功key的值274a37e458944322ada50628bad66671
+22:15:08  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+22:15:08  [INFO ] : 失败
+22:15:08  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:64) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+22:15:08  [INFO ] : {"status":401,"msg":"您还未登录"}
+22:15:08  [INFO ] : 失败
+22:15:08  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+22:15:08  [INFO ] : 通过
+22:16:45  [INFO ] : {"status":200,"msg":"success","token":"77061bf1f8594e629c90e13d20771b1e"}
+22:16:45  [INFO ] : 通过
+22:16:45  [INFO ] : 添加参数token成功key的值77061bf1f8594e629c90e13d20771b1e
+22:16:45  [INFO ] : {"status":200,"msg":"恭喜您，登录成功","userid":"1"}
+22:16:45  [INFO ] : 通过
+22:16:45  [INFO ] : 添加参数id成功key的值1
+22:16:45  [INFO ] : {"status":200,"msg":"查询成功","nickname":"Will_Testing","id":"1","describe":"擅长Python、Java自动化开发；是特斯汀学院最可爱的老师"}
+22:16:45  [INFO ] : 通过
+22:16:45  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+22:16:45  [INFO ] : 通过
+22:16:45  [INFO ] : {"status":200,"msg":"success","token":"aff46d26bf634db28cf356317bf1e03f"}
+22:16:45  [INFO ] : 通过
+22:16:45  [INFO ] : 添加参数token成功key的值aff46d26bf634db28cf356317bf1e03f
+22:16:45  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+22:16:45  [INFO ] : 通过
+22:16:46  [INFO ] : {"status":200,"msg":"success","token":"655357e93d1a4c5b999af25fa0c36e54"}
+22:16:46  [INFO ] : 通过
+22:16:46  [INFO ] : 添加参数token成功key的值655357e93d1a4c5b999af25fa0c36e54
+22:16:46  [INFO ] : {"status":402,"msg":"参数错误"}
+22:16:46  [INFO ] : 失败
+22:16:46  [INFO ] : {"status":200,"msg":"success","token":"77b040bc4a974eb1994ccec1dabc006f"}
+22:16:46  [INFO ] : 通过
+22:16:46  [INFO ] : 添加参数token成功key的值77b040bc4a974eb1994ccec1dabc006f
+22:16:46  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+22:16:46  [INFO ] : 失败
+22:16:46  [ERROR] : java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at com.test.inter.KeyWordOfInter.saveParmJson(KeyWordOfInter.java:57) [classes/:?]
+	at com.test.executeCases.ExecuteInterCases.runInter(ExecuteInterCases.java:64) [classes/:?]
+	at com.test.Test.TestRunInterCases.main(TestRunInterCases.java:16) [classes/:?]
+22:16:46  [INFO ] : {"status":401,"msg":"您还未登录"}
+22:16:46  [INFO ] : 失败
+22:16:46  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+22:16:46  [INFO ] : 通过
+22:19:20  [INFO ] : {"status":200,"msg":"success","token":"53ab79666481449fa4f7a1de9d9b88aa"}
+22:19:20  [INFO ] : 通过
+22:19:20  [INFO ] : 添加参数token成功key的值53ab79666481449fa4f7a1de9d9b88aa
+22:19:20  [INFO ] : {"status":200,"msg":"恭喜您，登录成功","userid":"1"}
+22:19:20  [INFO ] : 通过
+22:19:20  [INFO ] : 添加参数id成功key的值1
+22:19:20  [INFO ] : {"status":200,"msg":"查询成功","nickname":"Will_Testing","id":"1","describe":"擅长Python、Java自动化开发；是特斯汀学院最可爱的老师"}
+22:19:20  [INFO ] : 通过
+22:19:20  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+22:19:20  [INFO ] : 通过
+22:19:20  [INFO ] : {"status":200,"msg":"success","token":"5a1e3d43e3d2425690e4fbd9082d113f"}
+22:19:20  [INFO ] : 通过
+22:19:20  [INFO ] : 添加参数token成功key的值5a1e3d43e3d2425690e4fbd9082d113f
+22:19:20  [INFO ] : {"status":401,"msg":"用户名密码错误"}
+22:19:20  [INFO ] : 通过
+22:19:20  [INFO ] : {"status":200,"msg":"success","token":"8493842b8d59415c80c6d917655ed653"}
+22:19:20  [INFO ] : 通过
+22:19:20  [INFO ] : 添加参数token成功key的值8493842b8d59415c80c6d917655ed653
+22:19:21  [INFO ] : {"status":402,"msg":"参数错误"}
+22:19:21  [INFO ] : 通过
+22:19:21  [INFO ] : {"status":200,"msg":"success","token":"b73817e64e134cb6a69d6abad616cd88"}
+22:19:21  [INFO ] : 通过
+22:19:21  [INFO ] : 添加参数token成功key的值b73817e64e134cb6a69d6abad616cd88
+22:19:21  [INFO ] : {"status":200,"msg":"恭喜您，登录成功","userid":"1"}
+22:19:21  [INFO ] : 通过
+22:19:21  [INFO ] : 添加参数id成功key的值1
+22:19:21  [INFO ] : {"status":200,"msg":"查询成功","nickname":"Will_Testing","id":"1","describe":"擅长Python、Java自动化开发；是特斯汀学院最可爱的老师"}
+22:19:21  [INFO ] : 通过
+22:19:21  [INFO ] : {"status":200,"msg":"用户已退出登录"}
+22:19:21  [INFO ] : 通过
